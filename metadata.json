@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Resume & Interview Assistant",
+  "description": "An AI-powered web application to help job seekers improve their resumes with ATS scoring and practice interviews with intelligent feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
